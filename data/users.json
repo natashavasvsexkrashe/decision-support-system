@@ -1,0 +1,14 @@
+[
+  {
+    "id": "user1",
+    "name": "Иван Иванов",
+    "phone": "+7 900 000 00 00",
+    "avatar": "assets/default-avatar.png"
+  },
+  {
+    "id": "user2",
+    "name": "Мария Петрова",
+    "phone": "+7 900 111 11 11",
+    "avatar": "assets/default-avatar.png"
+  }
+]
